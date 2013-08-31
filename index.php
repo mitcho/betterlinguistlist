@@ -1,4 +1,9 @@
 <?php
+// Better Linguist List RSS feeds
+// Michael Yoshitaka Erlewine <mitcho@mitcho.com>
+// Dedicated to the public domain, 2010
+// https://github.com/mitcho/betterlinguistlist/
+// More: http://mitcho.com/blog/projects/better-linguist-list-rss-feeds/
 
 include('cleanup.php');
 
